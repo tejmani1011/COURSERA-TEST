@@ -25,7 +25,8 @@ h1 {
     width: 100%;
     font-family: cursive;
     float: left;
-    border: 2px solid black;  
+    border: 2px solid black; 
+    color: white;
 }
 
 .item3{
